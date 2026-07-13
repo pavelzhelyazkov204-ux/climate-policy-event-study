@@ -1,0 +1,14 @@
+# Licensed market data — not for redistribution
+*.xlsx
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
