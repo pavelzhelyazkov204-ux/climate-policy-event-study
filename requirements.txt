@@ -5,6 +5,5 @@ scipy
 matplotlib
 seaborn
 openpyxl
-eikon
 yfinance
 pandas-datareader
